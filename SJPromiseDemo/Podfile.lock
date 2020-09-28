@@ -1,0 +1,16 @@
+PODS:
+  - SJPromise (1.0.0)
+
+DEPENDENCIES:
+  - SJPromise (from `../`)
+
+EXTERNAL SOURCES:
+  SJPromise:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SJPromise: 20523b81356dd96146a9945b9a247236241a3152
+
+PODFILE CHECKSUM: e29c47730fff48f4492f98bf1f2458538ea44e6b
+
+COCOAPODS: 1.9.1
